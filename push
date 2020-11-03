@@ -1,0 +1,4 @@
+docker image ls
+docker login -u YOUR-USER-NAME
+docker tag getting-started YOUR-USER-NAME/getting-started
+docker push YOUR-USER-NAME/getting-started
